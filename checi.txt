@@ -1,0 +1,5 @@
+T8    Chengdu    Beijing     09:30
+1364  Chengdu    Beijing     14:20
+K118  Panzhih    Beijing     22:00
+G1284 Shenyang   Chengdu     07:24
+K386  Chengdu    Shenyang    14:20
