@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<string.h>
-#define maxn 3000
+#define maxn 6000
 char f[maxn];
 
 int main(){
@@ -21,6 +21,7 @@ int main(){
 	for(j=maxn-1; j>=0; j--) //略去前导 0
 		if(f[j])
 			break;
+	printf("size: %d\n",j);
 	for(;j>=0; j--)
 		printf("%d",f[j]);
 	printf("\n");
