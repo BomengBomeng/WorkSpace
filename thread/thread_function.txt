@@ -1,1 +1,0 @@
-int pthread_create(pthread_t *pid, )

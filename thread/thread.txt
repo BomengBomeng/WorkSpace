@@ -1,0 +1,8 @@
+-------------------------------------POSIX--------------------------------------
+varity:
+    pthread_t
+
+function:
+    int pthread_create(pthread_t *pid,   const pthread_attr_t *attr,
+                       void *(*start_route)(void*),   void *arg);
+    int pthread_join(pthread_t pid, void **value_ptr);
